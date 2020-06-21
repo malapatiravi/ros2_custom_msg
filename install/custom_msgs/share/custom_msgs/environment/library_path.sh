@@ -1,0 +1,1 @@
+/home/malz/ros2_foxy/build/ament_package/ament_package/template/environment_hook/library_path.sh

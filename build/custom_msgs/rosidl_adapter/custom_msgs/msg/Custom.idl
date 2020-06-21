@@ -1,0 +1,12 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from custom_msgs/msg/Custom.msg
+// generated code does not contain a copyright notice
+
+
+module custom_msgs {
+  module msg {
+    struct Custom {
+      uint32 number;
+    };
+  };
+};
