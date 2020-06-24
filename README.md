@@ -14,6 +14,6 @@ The project has three packages. custom_msg_pub, custom_msg_sub, and custom_msgs
 
 How to Run
 1. Clone the project
-2. $ colcon build --simlinnk-install in rot folder.
+2. inside root folder that is outside srs give $ colcon build --simlinnk-install in root folder.
 3. $ source install/local_setup.bash (this will make the messages available during run time)
 4. $ Runs subscriber and publisher
