@@ -21,7 +21,7 @@ from rclpy.node import Node
 from std_msgs.msg import String
 
 from custom_msgs.msg import Custom as CustomMsg
-
+from custom_msgs.msg import BBox as BBoxMsg
 
 class MinimalPublisher(Node):
 

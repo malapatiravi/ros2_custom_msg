@@ -1,0 +1,10 @@
+uint32 top_left_x
+uint32 top_left_y
+uint32 bottom_right_x
+uint32 bottom_right_y
+float32 score
+std_msgs/String class_label
+float32 px_to_mm
+float32 px_to_ms
+uint64 timestamp_ms
+std_msgs/String box_id
