@@ -1,6 +1,0 @@
-{
-  "package_name": "custom_msgs",
-  "non_idl_tuples": [
-    "/home/malz/Documents/ros2_custom_msg_ws/src/custom_msgs:msg/Custom.msg"
-  ]
-}
